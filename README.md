@@ -1,7 +1,7 @@
 
 # Organo - Gerenciador de Organizações e Times
 
-![Imagem da interface de cadastro de colaborador do Organo]([blob:https://web.whatsapp.com/32c78b1f-5a09-4623-bb80-d92014714e68](https://github.com/JoaoFigueired0/Web_Assets/blob/main/Captura%20de%20tela%202025-04-13%20114327.png?raw=true))
+![Imagem da interface de cadastro de colaborador do Organo]((https://raw.githubusercontent.com/JoaoFigueired0/Web_Assets/refs/heads/main/Captura%20de%20tela%202025-04-13%20114327.png?token=GHSAT0AAAAAAC7SI3EJERREOURZOP7Z6A4OZ736Y2Q))
 
 O **Organo** é uma aplicação web desenvolvida em React com o objetivo de facilitar a organização de pessoas e times em um só lugar. Através de uma interface intuitiva, o Organo permite cadastrar colaboradores, definindo seus cargos, imagens de perfil e times a que pertencem.
 
